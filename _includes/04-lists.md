@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Family
+- Friends
+- Fried Rice
+- Music
+- Video Games
+
